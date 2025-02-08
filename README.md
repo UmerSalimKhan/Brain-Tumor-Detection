@@ -27,12 +27,12 @@ The dataset used for training and evaluation consists of MRI images of the brain
 > Dataset Link: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection </br>
 
 Few images of dataset is seen below:
-![Dataset images](Imgs/Dataset Imgs.png)
+![Dataset images](Imgs/Dataset%20Imgs.png)
 
 ## Model Architecture
 
 The model is based on the ResNet18 architecture, pre-trained on ImageNet. The pre-trained model's fully connected layer (`fc`) is replaced with a custom classifier head suitable for binary classification.  The classifier head consists of several fully connected layers, ReLU and Tanh activation functions, and dropout for regularization. Architure of classifier is given below.
-![Classifier Head](Imgs/Classifier architecture.png)
+![Classifier Head](Imgs/Classifier%20architecture.png)
 
 ## Requirements
 
