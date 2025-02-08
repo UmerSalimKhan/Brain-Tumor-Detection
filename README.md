@@ -99,19 +99,19 @@ brain-tumor-detection/
 ## Training Evaluation
 
 1. Training & Evaluation
-</br>
+__
 ![Training & Evaluation -- Loss & Accuracy](Imgs/Training_Val_Loss_ACC.png)
-</br>
+__
 
 3. Classification Report
-</br>
+__
 ![Training & Evaluation -- Loss & Accuracy](Imgs/Classification_report.png)
-</br>
+__
 
 5. Confusion Matrix
-</br>
+__
 ![Training & Evaluation -- Loss & Accuracy](Imgs/Confusion_Matrix.png)
-</br>
+__
 
 ## Streamlit App
 
