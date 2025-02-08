@@ -24,7 +24,10 @@ Brain tumors are a serious health concern, and early detection is crucial for ef
 
 The dataset used for training and evaluation consists of MRI images of the brain, from patients with either "tumor" or "no tumor."  The dataset was undersampled to balance the classes. Dataset is not included in this repository as it is a large files. 
 
-> Dataset Link: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+> Dataset Link: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection </br>
+
+Few images of dataset is seen below:
+![Dataset images](Imgs/Dataset Imgs.png)
 
 ## Model Architecture
 
@@ -97,12 +100,15 @@ brain-tumor-detection/
 
 1. Training & Evaluation
 ![Training & Evaluation -- Loss & Accuracy](Imgs/Training_Val_Loss_ACC.png)
+</br>
 
 2. Classification Report
 ![Training & Evaluation -- Loss & Accuracy](Imgs/Classification_report.png)
+</br>
 
 3. Confusion Matrix
 ![Training & Evaluation -- Loss & Accuracy](Imgs/Confusion_Matrix.png)
+</br>
 
 ## Streamlit App
 
