@@ -99,14 +99,17 @@ brain-tumor-detection/
 ## Training Evaluation
 
 1. Training & Evaluation
+</br>
 ![Training & Evaluation -- Loss & Accuracy](Imgs/Training_Val_Loss_ACC.png)
 </br>
 
-2. Classification Report
+3. Classification Report
+</br>
 ![Training & Evaluation -- Loss & Accuracy](Imgs/Classification_report.png)
 </br>
 
-3. Confusion Matrix
+5. Confusion Matrix
+</br>
 ![Training & Evaluation -- Loss & Accuracy](Imgs/Confusion_Matrix.png)
 </br>
 
