@@ -1,0 +1,35 @@
+# Ignore environment files
+.env
+
+# Ignore virtual environment file
+brain_tumor_env/
+
+# Ignore system files and directories
+Thumbs.db
+.DS_Store
+
+# Ignore IDE-specific files (example for Visual Studio Code)
+.vscode/
+*.code-workspace
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore log files
+*.log
+
+# Ignore Git LFS configuration
+.gitattributes
+.gitmodules
+
+# Ignore other temporary files
+*.bak
+*.swp
+
+# Ignore dataset 
+BrainTumorMRIDataset/
+

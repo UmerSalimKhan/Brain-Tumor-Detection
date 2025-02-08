@@ -1,0 +1,5 @@
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+BrainTumorMRIDataset filter=lfs diff=lfs merge=lfs -text
+brain_tumor_model.pth filter=lfs diff=lfs merge=lfs -text
+Brain_Tumor_Detection.ipynb filter=lfs diff=lfs merge=lfs -text
